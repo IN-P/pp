@@ -14,9 +14,9 @@
 
 ## 2. CONTACT & Links
 - **Email**: cooladam_@naver.com
-- **GitHub**: [github.com/your_github](https://github.com/IN-P)
-- **LinkedIn**: [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
-- **Portfolio**: [your-portfolio-link](https://your-portfolio-link)
+- **GitHub**: [https://github.com/IN-P](https://github.com/IN-P)
+- **GitHub**: [1차 프로젝트](https://github.com/yoon0416/ssgpack)
+- **video**: [1차 프로젝트](https://www.youtube.com/watch?v=ePs5JN8RhW0)
 
 ---
 
