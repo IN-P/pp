@@ -29,6 +29,25 @@
 - **Infra & DevOps**: AWS(EC2, S3), Linux, GitHub Actions, Nginx  
 - **ETC**: WebSocket(STOMP), REST API, JUnit, Postman
 
+- ## 3. 기술 역량 (프로젝트 활용 사례 포함)
+
+| 기술 | 사용 버전/환경 | 프로젝트 활용 기능 | 상세 설명 |
+|------|----------------|-------------------|------------|
+| **Java 11** | Spring Boot 환경 | HALOSHOP (3차) 경매·입찰·낙찰 서비스 로직 | 실시간 입찰 동시성 제어, 트랜잭션 관리, Race Condition 해결(트랜잭션 단일 진입점) |
+| **Spring Boot 2.7.14** | MyBatis 연동 | HALOSHOP (3차) 경매 API, 스케줄러 운영 | 경매 상태 자동화(Scheduler), WebSocket 실시간 데이터 브로드캐스트, 예외처리 및 트랜잭션 설계 |
+| **MyBatis** | Mapper XML 기반 SQL 처리 | HALOSHOP (3차) 입찰 로그/낙찰 결과 저장 | 동적 SQL, 입찰 내역 조회 최적화, 복잡 관계 조인 SQL 성능 개선 |
+| **JPA(Hibernate)** | ORM 매핑 | SSGFC (1차) 커뮤니티 게시판·투표 | @OneToMany, @ManyToOne 관계 설계, 게시판-댓글-대댓글 구조화, Lazy Loading 성능 최적화 |
+| **Node.js 22.15 / Express 5.1** | REST API 서버 | HALO (2차) SNS 피드·댓글·알림 | SNS형 피드 CRUD, 실시간 알림 API, 상태 동기화 및 중복방지 로직 설계 |
+| **React 18.3 / Next.js 13.x** | SPA/SSR | HALO (2차) SNS UI, HALOSHOP (3차) 실시간 입찰·채팅 UI | 상태관리(Hooks, Context), WebSocket 기반 실시간 데이터 반영, Lazy Loading으로 렌더링 최적화 |
+| **Thymeleaf** | 서버사이드 렌더링 | SSGFC (1차) 게시판·투표 화면 구성 | AI 감정 분석 결과 시각화, 서버 렌더링 기반 안정적 UI 제공 |
+| **MySQL 8.0.41** | DB | 모든 프로젝트 공통 | 정규화된 ERD 설계, 복잡 쿼리 최적화(인덱스, 한방 쿼리), 대량 트랜잭션 처리 및 무결성 유지 |
+| **WebSocket(STOMP)** | 실시간 통신 | HALOSHOP (3차) 경매·채팅, HALO (2차) 실시간 알림/채팅 | 실시간 경매 입찰 상태 브로드캐스트, 경매 종료 자동화 이벤트 전달, 실시간 UX 개선 |
+| **AWS(EC2, S3, Nginx)** | 클라우드 배포 | 모든 프로젝트 공통 | 백엔드/프론트 배포, 정적 파일 관리(S3), Nginx 리버스 프록시 구성, SSL 적용 |
+| **Git/GitHub Actions** | 형상관리/CI | 모든 프로젝트 공통 | Git Flow 전략 도입, CI/CD 자동화로 배포 속도·안정성 향상 |
+| **JUnit / Postman** | 테스트 자동화 | HALOSHOP (3차), SSGFC (1차) API 테스트 | API 단위 테스트 및 통합 테스트, Postman 스크립트를 활용한 시나리오 검증 |
+| **JavaScript(ES6)** | 클라이언트 로직 | HALO (2차), HALOSHOP (3차) | 비동기 입력 검증, 실시간 데이터 반영, 외부 API(카카오맵) 연동 |
+| **Linux (Ubuntu)** | 서버 환경 | 모든 프로젝트 공통 | 서버 자원 관리, 배포 환경 설정, 보안 패치 및 로그 분석 |
+
 ---
 
 ## 4. 포트폴리오 기술 보고서
