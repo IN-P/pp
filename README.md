@@ -15,15 +15,9 @@
 ## 2. CONTACT & Links
 - **Email**: cooladam_@naver.com
 - **GitHub**: [https://github.com/IN-P](https://github.com/IN-P)
-- **Git**: [1차 프로젝트](https://github.com/yoon0416/ssgpack)
-- **AWS**: [1차 프로젝트](http://54.180.121.243:8080/)
-- **Video**: [1차 프로젝트](https://www.youtube.com/watch?v=ePs5JN8RhW0)
-- **Git**: [2차 프로젝트](https://github.com/IN-P/HALO)
-- **AWS**: [배포예정]()
-- **Video**: [2차 프로젝트](https://www.youtube.com/watch?v=cYs9vMhXrUQ)
-- **Git**: [3차 프로젝트](https://github.com/joyulbi/HALO_SHOP)
-- **AWS**: [3차 프로젝트](http://43.202.189.108/)
-- **Video**: [3차 프로젝트](https://www.youtube.com/watch?v=98LZgUXIu2Y)
+- **1차 SSGFC**: [GitHub](https://github.com/yoon0416/ssgpack) | [AWS](http://54.180.121.243:8080/) | [Video](https://www.youtube.com/watch?v=ePs5JN8RhW0)
+- **2차 HALO**: [GitHub](https://github.com/IN-P/HALO) |[AWS 배포예정]() | [Video](https://www.youtube.com/watch?v=cYs9vMhXrUQ)
+- **3차 HALOSHOP**: [GitHub](https://github.com/joyulbi/HALO_SHOP) | [AWS](http://43.202.189.108/) | [Video](https://www.youtube.com/watch?v=98LZgUXIu2Y)
 
 ---
 
@@ -64,8 +58,8 @@
 #### 기술 스택
 - **Backend**: Java 11, Spring Boot 2.7.14, JPA(Hibernate)  
 - **Frontend**: Thymeleaf  
-- **Database**: MySQL 8  
-- **Infra**: AWS EC2, GitHub Actions
+- **Database**: MySQL 8.0.41  
+- **Infra**: AWS (EC2, S3), GitHub Actions
 
 #### 트러블슈팅
 - **문제 1: orphan 댓글 처리**
@@ -109,9 +103,9 @@
   - 협업 리더 경험 → 팀 전체 생산성 향상
 
 #### 기술 스택
-- **Backend**: Node.js, Express  
-- **Frontend**: React, NEXT.js  
-- **Database**: MySQL  
+- **Backend**: Node.js 22.15.0, Express 5.1.0, npm 10.9.2  
+- **Frontend**: React 18.3.1, NEXT.js 13.4.13  
+- **Database**: MySQL 8.0.41  
 - **Infra**: AWS, GitHub Actions
 
 #### 트러블슈팅
@@ -154,10 +148,10 @@
   - 트랜잭션 관리·스케줄러 운영 등 실무형 경험 축적
 
 #### 기술 스택
-- **Backend**: Java 11, Spring Boot, MyBatis  
-- **Frontend**: React  
-- **Database**: MySQL  
-- **Infra**: AWS(EC2, Nginx), GitHub Actions
+- **Backend**: Java 11, Spring Boot 2.7.14, MyBatis  
+- **Frontend**: React 18.3.1, NEXT.js 13.5  
+- **Database**: MySQL 8.0.41  
+- **Infra**: AWS(EC2, S3, Nginx), GitHub Actions
 
 #### 트러블슈팅
 - **문제 1: 입찰 동시성 충돌**
