@@ -15,8 +15,15 @@
 ## 2. CONTACT & Links
 - **Email**: cooladam_@naver.com
 - **GitHub**: [https://github.com/IN-P](https://github.com/IN-P)
-- **GitHub**: [1차 프로젝트](https://github.com/yoon0416/ssgpack)
-- **video**: [1차 프로젝트](https://www.youtube.com/watch?v=ePs5JN8RhW0)
+- **Git**: [1차 프로젝트](https://github.com/yoon0416/ssgpack)
+- **AWS**: [1차 프로젝트](http://54.180.121.243:8080/)
+- **Video**: [1차 프로젝트](https://www.youtube.com/watch?v=ePs5JN8RhW0)
+- **Git**: [2차 프로젝트](https://github.com/IN-P/HALO)
+- **AWS**: [배포예정]()
+- **Video**: [2차 프로젝트](https://www.youtube.com/watch?v=cYs9vMhXrUQ)
+- **Git**: [3차 프로젝트](https://github.com/joyulbi/HALO_SHOP)
+- **AWS**: [3차 프로젝트](http://43.202.189.108/)
+- **Video**: [3차 프로젝트](https://www.youtube.com/watch?v=98LZgUXIu2Y)
 
 ---
 
