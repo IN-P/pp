@@ -21,14 +21,6 @@
 
 ---
 
-## 3. 기술 역량
-- **Language**: Java 11, JavaScript(ES6), Python  
-- **Framework**: Spring Boot, MyBatis, JPA(Hibernate), Express.js  
-- **Frontend**: React, Next.js, Thymeleaf  
-- **Database**: MySQL, MariaDB  
-- **Infra & DevOps**: AWS(EC2, S3), Linux, GitHub Actions, Nginx  
-- **ETC**: WebSocket(STOMP), REST API, JUnit, Postman
-
 - ## 3. 기술 역량 (프로젝트 활용 사례 포함)
 
 | 기술 | 사용 버전/환경 | 프로젝트 활용 기능 | 상세 설명 |
